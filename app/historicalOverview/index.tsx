@@ -42,7 +42,7 @@ const index = () => {
             </View>
             <View className='bg-white/5 rounded-xl overflow-hidden h-56 mb-6'>
               <View className='flex-1 bg-gradient-to-br from-amber-400/20 to-orange-500/20 justify-center items-center'>
-                  <Image source={{ uri: 'https://www.museedelhomme.fr/system/files/styles/16_10_highest/mnhn/2022-02/exposition_tassili_algerie_memoires_pierre_c_mnhn.jpg.webp?itok=NBOIYLoj' }} className='w-full h-full' resizeMode='cover' />
+                  <Image source={{ uri: 'https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Illizi_Residential_quarter_1991.png/1920px-Illizi_Residential_quarter_1991.png' }} className='w-full h-full' resizeMode='cover' />
               </View>
             </View>
           </View>
